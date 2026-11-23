@@ -2,7 +2,8 @@
 
 **Université Abdelmalek Essaadi – FST Tanger**
 **Module :** Deep Learning – Pr. Elaachak Lotfi
-**Étudiante :** Lorraine Agnès
+
+**Étudiante :** RAHELIARISOA Andriamasy Lorraine Agnès
 
 ## Objectif
 Collecter un corpus de textes arabes, le prétraiter, entraîner des modèles séquentiels
