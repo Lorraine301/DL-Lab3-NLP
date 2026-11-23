@@ -1,0 +1,17 @@
+torch
+transformers
+accelerate
+scrapy
+beautifulsoup4
+lxml
+requests
+pandas
+numpy
+scikit-learn
+nltk
+pyarabic
+qalsadi
+sacrebleu
+matplotlib
+seaborn
+tqdm
