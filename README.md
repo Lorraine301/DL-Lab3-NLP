@@ -10,7 +10,7 @@ Collecter un corpus de textes arabes, le prétraiter, entraîner des modèles s�
 (RNN, BiRNN, GRU, LSTM) puis affiner GPT-2 pour la génération de texte.
 
 ## Environnement
-- Plateforme : Kaggle / Google Colab (GPU : à compléter)
+- Plateforme : Kaggle(GPU : T4X2)
 - Bibliothèques : PyTorch, BeautifulSoup, NLTK, transformers
 
 ## Partie 1 : Classification
